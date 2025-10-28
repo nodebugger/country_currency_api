@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.pytest_cache/
+
+
+db.sqlite3
+countries.db
+
+# Environments
+.env
+.venv
+
+# IDE files
+.vscode/
