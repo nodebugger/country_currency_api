@@ -13,3 +13,4 @@ countries.db
 
 # IDE files
 .vscode/
+local/
